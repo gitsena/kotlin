@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Projeto Formulário</string>
+    <string name="txt_toast">É nóis no Android</string>
+    <string name="txt_nome_obrigatorio">O nome é obrigatório</string>
+    <string name="txt_resultado">Cadastro efetuado com sucesso com nome %1$s e idade %2$d</string>
+</resources>
